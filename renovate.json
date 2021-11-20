@@ -1,0 +1,8 @@
+{
+  "rangeStrategy": "pin",
+  "packageRules": [{
+    "packagePatterns": ["^angular.*"],
+    "groupName": "angular",
+    "automerge": true
+  }]
+}
